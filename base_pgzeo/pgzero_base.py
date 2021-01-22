@@ -1,6 +1,5 @@
 import pgzrun
 
-pgzrun.go()
 
 WIDTH = 700
 HEIGHT = 600
